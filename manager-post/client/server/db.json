@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cách học React hiệu quả",
+      "author": "Khánh Linh",
+      "content": "Học React **từng bước**, bắt đầu từ component và props."
+    },
+    {
+      "id": 2,
+      "title": "Giới thiệu Markdown",
+      "author": "Admin",
+      "content": "Markdown giúp viết nội dung dễ dàng hơn với *cú pháp đơn giản*."
+    }
+  ]
+}
